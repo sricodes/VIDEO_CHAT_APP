@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sricodes/VIDEO_CHAT_APP/issues"
   },
-  "homepage": "https://github.com/sricodes/VIDEO_CHAT_APP#readme"
+  "homepage": "https://github.com/sricodes/VIDEO_CHAT_APP#readme",
+  "dependencies": {
+   
+  }
 }
